@@ -8,7 +8,7 @@ import about
 st.set_page_config(page_title="Portfolio | Avinash Pandey", layout="wide")
 
 # --- LOAD GLOBAL CSS (Your Provided Styles) ---
-with open("styles/main.css") as f:
+with open("main.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # --- ADDITIONAL CUSTOM CSS ---
