@@ -206,5 +206,5 @@ else:
         - Developed and optimized <span style='color:#FF6347; font-weight:bold;'>SQL queries</span> to enhance data extraction, transformation, and loading (ETL) efficiency for legislative reports and bill tracking.
         - Built <span style='color:#FF6347; font-weight:bold;'>Power BI and Tableau dashboards</span>, enabling real-time business intelligence reporting and improving legislative data analysis for decision-makers.
         - Automated data validation and reporting pipelines, significantly reducing manual data processing workloads and improving reporting efficiency.
-        - Provided technical support and troubleshooting for legislative data systems, ensuring seamless integration of business intelligence tools for data-driven policy analysis...
+        - Provided technical support and troubleshooting for legislative data systems, ensuring seamless integration of business intelligence tools for data-driven policy analysis.
         """, unsafe_allow_html=True)
