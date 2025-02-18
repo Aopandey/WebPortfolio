@@ -126,21 +126,21 @@ else:
             st.download_button(
                 label="📁 Data Science and Analysis Resume",
                 data=PDFbyte,
-                file_name="Avinash_Pandey_Resume_DS.pdf",
+                file_name="Avinash Pandey Resume.pdf",
                 mime="application/octet-stream"
             )
         with col2:
             st.download_button(
                 label="📁 Data Engineering and Pipeline Resume",
                 data=PDFbyte1,
-                file_name="Avinash_Pandey_Resume_DE.pdf",
+                file_name="Avinash Pandey Resume.pdf",
                 mime="application/octet-stream"
             )
         with col3:
             st.download_button(
                 label="📁 Software Engineering Resume",
                 data=PDFbyte2,
-                file_name="Avinash_Pandey_Resume_SWE.pdf",
+                file_name="Avinash Pandey Resume.pdf",
                 mime="application/octet-stream"
             )
 
@@ -191,6 +191,14 @@ else:
         st.markdown("<br>", unsafe_allow_html=True)
 
         st.markdown("""
+        **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Purdue University</span>** | **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Research Assistant</span>** (<span style='color:#1E90FF; font-weight:bold;'>Feb 2024 – Present</span>)
+        - Design and implement a robust multi-LLM ensemble pipeline integrating **<span style='color:#FF6347; font-weight:bold;'>Google Gemini 2.0, GPT-4, Anthropic Claude, and BioGPT</span>** to generate concise, fact-checked summaries of biomedical literature.
+        - Develop an **<span style='color:#FF6347; font-weight:bold;'>asynchronous pipeline</span>** using PubMed’s Entrez API to retrieve comprehensive metadata from biomedical literature—scalable to tens of thousands across a database of 35+ million citations.
+        - Engineer dynamic, user-centric relevance ranking algorithms by integrating interactive questionnaires to personalize literature synthesis and improve information retrieval.
+        - Implement cross-model error correction to **<span style='color:#FF6347; font-weight:bold;'>reduce hallucinations and enhance summary accuracy</span>**.
+        - **<span style='color:#FF6347; font-weight:bold;'>Author detailed documentation</span>** and maintained rigorous evaluation metrics throughout development, paving the way for a paper submission and future grant proposals.
+        <br><br>
+        
         **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Aider Ventures (Nienna Lab)</span>** | **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Machine Learning Engineering Intern</span>** (<span style='color:#1E90FF; font-weight:bold;'>July 2024 – Nov 2024</span>)
         - Developed and optimized an automated ETL pipeline that processed **<span style='color:#FF6347; font-weight:bold;'>10,000+ research papers</span>** from **<span style='color:#1E90FF; font-weight:bold;'>ICML 2024</span>**, leveraging **<span style='color:#FF6347; font-weight:bold;'>FAISS embeddings, ChromaDB, and LangChain</span>** to convert unstructured research text into structured data, improving retrieval accuracy and metadata extraction by **<span style='color:#FF6347; font-weight:bold;'>20%</span>**.
         - Engineered scalable classification models using the **<span style='color:#FF6347; font-weight:bold;'>Gemini API</span>**, improving content organization and research trend analysis by **<span style='color:#FF6347; font-weight:bold;'>40%</span>**, enabling better semantic search and categorization of research insights.
