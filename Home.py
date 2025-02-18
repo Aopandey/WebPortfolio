@@ -193,7 +193,7 @@ else:
         st.markdown("""
         **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Purdue University</span>** | **<span style='color:#1E90FF; font-size:1.3em; font-weight:bold;'>Research Assistant</span>** (<span style='color:#1E90FF; font-weight:bold;'>Feb 2024 – Present</span>)
         - Design and implement a robust multi-LLM ensemble pipeline integrating **<span style='color:#FF6347; font-weight:bold;'>Google Gemini 2.0, GPT-4, Anthropic Claude, and BioGPT</span>** to generate concise, fact-checked summaries of biomedical literature.
-        - Develop an **<span style='color:#FF6347; font-weight:bold;'>asynchronous pipeline</span>** using PubMed’s Entrez API to retrieve comprehensive metadata from biomedical literature—scalable to tens of thousands across a database of 35+ million citations.
+        - Develop an **<span style='color:#FF6347; font-weight:bold;'>asynchronous pipeline</span>** using PubMed’s Entrez API to retrieve comprehensive metadata from biomedical literature—scalable to tens of thousands across a **<span style='color:#FF6347; font-weight:bold;'>database of 35+ million citations</span>**.
         - Engineer dynamic, user-centric relevance ranking algorithms by integrating interactive questionnaires to personalize literature synthesis and improve information retrieval.
         - Implement cross-model error correction to **<span style='color:#FF6347; font-weight:bold;'>reduce hallucinations and enhance summary accuracy</span>**.
         - **<span style='color:#FF6347; font-weight:bold;'>Author detailed documentation</span>** and maintained rigorous evaluation metrics throughout development, paving the way for a paper submission and future grant proposals.
